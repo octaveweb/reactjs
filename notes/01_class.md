@@ -12,10 +12,14 @@ npm start
 > NPM (Node Package Manager) or NPX (Node Package Execute) this are the topic of Node.js 
 
 #### Breakdown 
+
 - ```base
     npm install -g create-react-app my-app
     ```
-Here we are saying that hay npm can you install `create-react-app` in my-app and also make sure it is install globally or `-g` and remember it is downlode inside your 
+
+Here we are saying that hay npm can you install `create-react-app` in my-app and also make sure it is install globally or `-g` and remember it is downlode inside your device
+
+
 
 
 
