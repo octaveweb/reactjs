@@ -2,5 +2,5 @@
 
 | Topic     | Topic links                      |
 | --------- | -------------------------------- |
-| Variable  | [Basic Variables](notes/01_variables.md)    |
+| Class 01  | [Basic npm, npx](notes/01_class.md)    |
 
