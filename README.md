@@ -2,5 +2,5 @@
 
 | Topic     | Topic links                      |
 | --------- | -------------------------------- |
-| Class 01  | [Basic npm, npx](notes/01_class.md)    |
+| Basics ReactJs  | [How to start?](notes/01_class.md)    |
 
